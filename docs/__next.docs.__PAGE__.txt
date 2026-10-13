@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:"/_next/static/chunks/2_xbkqltgszjw.js"
+c:"/_next/static/chunks/3i7_8iz2k75k7.js"
+d:I[81331,["$2","$b","$c"],"SiteNav"]
+e:I[44284,["$2","$b","$c"],"ApiDocs"]
+f:I[22016,["$2","$b","$c"],""]
+10:I[97367,["$2"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$2"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$2"],"$16"]
+18:I[27201,["$2"],"IconMark"]
+:HL["/_next/static/chunks/42exnxzm2zopz.css","style"]
+6:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$Ld",null,{}],["$","main",null,{"className":"flex-1","children":[["$","section",null,{"className":"mx-auto w-full max-w-[1400px] px-5 pb-16 pt-16 md:px-10 md:pt-28","children":[["$","p",null,{"className":"t-label text-ink/50","children":"Documentation"}],["$","h1",null,{"className":"t-display mt-6 max-w-[12ch]","children":"Start here."}],["$","p",null,{"className":"t-lede mt-8 max-w-[46ch] text-ink/75","children":"One local service, one Python client, five endpoints. The endpoint list below is read from the running API's OpenAPI schema."}]]}],["$","section",null,{"className":"mx-auto w-full max-w-[1400px] px-5 pb-32 md:px-10","children":["$","$Le",null,{}]}]]}],["$","footer",null,{"className":"border-t border-ink/15","children":["$","div",null,{"className":"mx-auto flex w-full max-w-[1400px] flex-col gap-6 px-5 py-10 md:flex-row md:items-end md:justify-between md:px-10","children":[["$","div",null,{"children":[["$","p",null,{"className":"wordmark lowercase","children":"proofspan"}],["$","p",null,{"className":"mt-2 max-w-xs text-sm text-ink/50","children":"Mathematical verification infrastructure for AI. Intelligence needs proof."}]]}],["$","ul",null,{"className":"t-label flex flex-wrap gap-x-8 gap-y-3 text-ink/50","children":[["$","li",null,{"children":["$","$Lf",null,{"href":"/research","children":"Research"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/framework","children":"Framework"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/docs","children":"Documentation"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/app","children":"Application"}]}],["$","li",null,{"children":"© proofspan"}]]}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/2_xbkqltgszjw.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3i7_8iz2k75k7.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$6"}}]]
+7:[["children",{"s":"docs","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/42exnxzm2zopz.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"en","className":"gBkbeW_variable _464_ba_variable h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f7f5ee"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Documentation — proofspan"}],["$","meta","1",{"name":"description","content":"Mathematical verification infrastructure for AI. Proofspan recomputes, dates, and stress-tests the numbers in AI-generated financial research."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/logo-mark.svg"}],["$","$L18","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$6"}},"a":"$@1a","u":"$@1b","b":"kmPN401QXyLlZGsbjBmzg"}
+12:null
+6:300
+1b:true
+6:C
+1a:0
+8:"$undefined"
+5:"$undefined"
+19:"$undefined"
+13:"$undefined"
